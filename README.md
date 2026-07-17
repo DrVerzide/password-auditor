@@ -1,5 +1,9 @@
 # password-auditor
 
+[![CI](https://github.com/DrVerzide/password-auditor/actions/workflows/ci.yml/badge.svg)](https://github.com/DrVerzide/password-auditor/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12%20%7C%203.13-blue)](https://www.python.org)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 A command-line tool that audits password strength **offline** and optionally checks whether a password has appeared in known data breaches using the [Have I Been Pwned](https://haveibeenpwned.com/Passwords) Pwned Passwords API.
 
 ## Features
